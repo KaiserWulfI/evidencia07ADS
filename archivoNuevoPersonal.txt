@@ -1,0 +1,30 @@
+T002 T002 G2 EmpresaB Planta2 Calidad E Trabajador_2 11100 20200102
+T003 G3 EmpresaC Planta3 Logistica O Trabajador_3 11200 20200103
+T005 T005 G2 EmpresaB Planta2 Produccion O Trabajador_5 11400 20200105
+T006 G3 EmpresaC Planta3 Calidad E Trabajador_6 11500 20200106
+T008 G2 EmpresaB Planta2 Mantenimiento E Trabajador_8 11700 20200108
+T009 G3 EmpresaC Planta3 Produccion O Trabajador_9 11800 20200109
+T011 G2 EmpresaB Planta2 Logistica O Trabajador_11 12000 20200111
+T012 G3 EmpresaC Planta3 Mantenimiento E Trabajador_12 12100 20200112
+T014 G2 EmpresaB Planta2 Calidad E Trabajador_14 12300 20200114
+T015 G3 EmpresaC Planta3 Logistica O Trabajador_15 12400 20200115
+T017 G2 EmpresaB Planta2 Produccion O Trabajador_17 12600 20200117
+T020 G2 EmpresaB Planta2 Mantenimiento E Trabajador_20 12900 20200120
+T021 G3 EmpresaC Planta3 Produccion O Trabajador_21 13000 20200121
+T023 G2 EmpresaB Planta2 Logistica O Trabajador_23 13200 20200123
+T024 G3 EmpresaC Planta3 Mantenimiento E Trabajador_24 13300 20200124
+T026 G2 EmpresaB Planta2 Calidad E Trabajador_26 13500 20200126
+T029 G2 EmpresaB Planta2 Produccion O Trabajador_29 13800 20200129
+T030 G3 EmpresaC Planta3 Calidad E Trabajador_30 13900 20200130
+T032 T032 G2 EmpresaB Planta2 Mantenimiento E Trabajador_32 14100 20200201
+T033 G3 EmpresaC Planta3 Produccion O Trabajador_33 14200 20200202
+T035 G2 EmpresaB Planta2 Logistica O Trabajador_35 14400 20200204
+T038 G2 EmpresaB Planta2 Calidad E Trabajador_38 14700 20200207
+T039 G3 EmpresaC Planta3 Logistica O Trabajador_39 14800 20200208
+T041 T041 G2 EmpresaB Planta2 Produccion E Trabajador_41 15000 20200210
+T042 G3 EmpresaC Planta3 Calidad E Trabajador_42 15100 20200211
+T044 G2 EmpresaB Planta2 Mantenimiento E Trabajador_44 15300 20200213
+T045 G3 EmpresaC Planta3 Produccion O Trabajador_45 15400 20200214
+T047 G2 EmpresaB Planta2 Logistica O Trabajador_47 15600 20200216
+T050 G2 EmpresaB Planta2 Calidad E Trabajador_50 15900 20200219
+XXX

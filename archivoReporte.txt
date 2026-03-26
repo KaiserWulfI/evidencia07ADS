@@ -1,0 +1,59 @@
+         1         2         3         4         5         6         7         8         9
+12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012
+  NOP120                  ACTUALIZACION DEL ARCHIVO DE PERSONAL                  HOJA 1
+
+ACME - DIV. BANCOS             MOVIMIENTOS EFECTUADOS
+PERSONAL
+
+        TRABAJADOR        MOVIMIENTO EFECTUADO
+        ----------        --------------------
+        T001                B A J A
+        T002                A L T A
+        T003                C A M B I O
+        T004                B A J A
+        T005                A L T A
+        T006                C A M B I O
+        T007                B A J A
+        T008                ALTA NO EXITOSA
+        T009                C A M B I O
+        T010                B A J A
+        T011                ALTA NO EXITOSA
+        T012                C A M B I O
+        T013                BAJA NO EXITOSA
+        T014                ALTA NO EXITOSA
+        T015                C A M B I O
+        T016                B A J A
+        T017                ALTA NO EXITOSA
+        T018                CAMBIO NO EXITOSO
+        T019                B A J A
+        T020                ALTA NO EXITOSA
+        T021                C A M B I O
+        T022                B A J A
+        T023                ALTA NO EXITOSA
+        T024                C A M B I O
+        T025                B A J A
+        T026                ALTA NO EXITOSA
+        T027                CAMBIO NO EXITOSO
+        T028                B A J A
+        T029                ALTA NO EXITOSA
+        T030                C A M B I O
+        T031                B A J A
+        T032                A L T A
+        T033                C A M B I O
+        T034                B A J A
+        T035                ALTA NO EXITOSA
+        T036                CAMBIO NO EXITOSO
+        T037                B A J A
+        T038                ALTA NO EXITOSA
+        T039                C A M B I O
+        T040                B A J A
+        T041                A L T A
+        T042                C A M B I O
+        T043                B A J A
+        T044                ALTA NO EXITOSA
+        T045                C A M B I O
+        T046                BAJA NO EXITOSA
+        T047                ALTA NO EXITOSA
+        T048                CAMBIO NO EXITOSO
+        T049                B A J A
+        T050                ALTA NO EXITOSA
