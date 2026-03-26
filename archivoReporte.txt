@@ -1,5 +1,3 @@
-         1         2         3         4         5         6         7         8         9
-12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012
   NOP120                  ACTUALIZACION DEL ARCHIVO DE PERSONAL                  HOJA 1
 
 ACME - DIV. BANCOS             MOVIMIENTOS EFECTUADOS
@@ -28,8 +26,6 @@ PERSONAL
         T019                B A J A
         T020                ALTA NO EXITOSA
 
-         1         2         3         4         5         6         7         8         9
-12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012
   NOP120                  ACTUALIZACION DEL ARCHIVO DE PERSONAL                  HOJA 2
 
 ACME - DIV. BANCOS             MOVIMIENTOS EFECTUADOS
@@ -58,8 +54,6 @@ PERSONAL
         T039                C A M B I O
         T040                B A J A
 
-         1         2         3         4         5         6         7         8         9
-12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012
   NOP120                  ACTUALIZACION DEL ARCHIVO DE PERSONAL                  HOJA 3
 
 ACME - DIV. BANCOS             MOVIMIENTOS EFECTUADOS

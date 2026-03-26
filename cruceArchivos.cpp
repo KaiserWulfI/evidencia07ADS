@@ -57,10 +57,6 @@ ofstream outArchivoReporte("archivoReporte.txt", ios::out);
 
 
 void escribirEncabezado() {
-  outArchivoReporte << "         1         2         3         4         5         6        "
-  " 7         8         9" << endl;
-  outArchivoReporte << "12345678901234567890123456789012345678901234567890123456789012345678"
-  "901234567890123456789012" << endl;
   outArchivoReporte << "  NOP120                  ACTUALIZACION DEL ARCHIVO DE PERSONAL     "
   "             HOJA " << numHoja << endl << endl;
   outArchivoReporte << "ACME - DIV. BANCOS             MOVIMIENTOS EFECTUADOS" << endl;
