@@ -1,6 +1,6 @@
 B T001 G1 EmpresaA Planta1 Produccion O Trabajador_1 11000.00 20200101
 A T002 G2 EmpresaB Planta2 Calidad E Trabajador_2 11100.00 20200102
-C T003 G3 EmpresaC Planta3 Logistica O Trabajador_3 11200.00 20200103
+C T003 G3 EmpresaC Planta1 Logistica O Trabajador_3 11200.00 20200103
 B T004 G1 EmpresaA Planta1 Mantenimiento E Trabajador_4 11300.00 20200104
 A T005 G2 EmpresaB Planta2 Produccion O Trabajador_5 11400.00 20200105
 C T006 G3 EmpresaC Planta3 Calidad E Trabajador_6 11500.00 20200106
@@ -12,7 +12,7 @@ A T011 G2 EmpresaB Planta2 Logistica O Trabajador_11 12000.00 20200111
 C T012 G3 EmpresaC Planta3 Mantenimiento E Trabajador_12 12100.00 20200112
 B T013 G1 EmpresaA Planta1 Produccion O Trabajador_13 12200.00 20200113
 A T014 G2 EmpresaB Planta2 Calidad E Trabajador_14 12300.00 20200114
-C T015 G3 EmpresaC Planta3 Logistica O Trabajador_15 12400.00 20200115
+C T015 G3 EmpresaC Planta2 Logistica O Trabajador_15 12400.00 20200115
 B T016 G1 EmpresaA Planta1 Mantenimiento E Trabajador_16 12500.00 20200116
 A T017 G2 EmpresaB Planta2 Produccion O Trabajador_17 12600.00 20200117
 C T018 G3 EmpresaC Planta3 Calidad E Trabajador_18 12700.00 20200118
@@ -27,7 +27,7 @@ A T026 G2 EmpresaB Planta2 Calidad E Trabajador_26 13500.00 20200126
 C T027 G3 EmpresaC Planta3 Logistica O Trabajador_27 13600.00 20200127
 B T028 G1 EmpresaA Planta1 Mantenimiento E Trabajador_28 13700.00 20200128
 A T029 G2 EmpresaB Planta2 Produccion O Trabajador_29 13800.00 20200129
-C T030 G3 EmpresaC Planta3 Calidad E Trabajador_30 13900.00 20200130
+C T030 G3 EmpresaC Planta4 Calidad E Trabajador_30 13900.00 20200130
 B T031 G1 EmpresaA Planta1 Logistica O Trabajador_31 14000.00 20200131
 A T032 G2 EmpresaB Planta2 Mantenimiento E Trabajador_32 14100.00 20200201
 C T033 G3 EmpresaC Planta3 Produccion O Trabajador_33 14200.00 20200202
