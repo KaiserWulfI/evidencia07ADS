@@ -44,7 +44,7 @@ bool finMovimientos = false;
 
 // Variables para contar lineas de Reporte
 int numLinea = 0;
-int numHoja = 1;
+int numHoja = 0;
 
 // Declaracion del archivo de Personal
 ifstream inArchivoPersonal("archivoPersonal.txt", ios::in);
@@ -66,15 +66,15 @@ void escribirEncabezado() {
 }
 
 void escribirReporte(string mensaje) {
-  if (numLinea > 19) {
+  if (numLinea < 1) {
     outArchivoReporte << "\n";
-    numLinea = 0;
+    numLinea = 20;
     numHoja++;
     escribirEncabezado();
   }
   outArchivoReporte << "        " << regMovimientos.datos.noTrabajador << "                "
       << mensaje << endl;
-  numLinea++;
+  numLinea--;
 }
 
 /* Funcion: abrirArchivos
@@ -102,8 +102,6 @@ void abrirArchivos() {
   if (archivosNoAbiertos > 0) {
     exit(EXIT_FAILURE);
   }
-
-  escribirEncabezado();
 }
 
 void cerrarArchivos() {
