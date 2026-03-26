@@ -15,6 +15,7 @@
 
 using namespace std;
 
+// Estructura para Manejar el Personal
 struct Personal {
   string noTrabajador;
   string grupo;
@@ -27,18 +28,23 @@ struct Personal {
   int fechaIngreso;
 };
 
+// Estructura para Manejar los Movimientos
 struct Movimiento {
   char claveMovimiento; // A, B, C
   Personal datos;
 };
+
+// Variables para guardar moviemiento y personal
 Personal regPersonal;
 Movimiento regMovimientos;
 
+// Variables de fin de Archivo
 bool finPersonal = false;
 bool finMovimientos = false;
 
-int contadorLineas = 0;
-int numeroHoja = 1;
+// Variables para contar lineas de Reporte
+int numLinea = 0;
+int numHoja = 1;
 
 // Declaracion del archivo de Personal
 ifstream inArchivoPersonal("archivoPersonal.txt", ios::in);
@@ -56,7 +62,7 @@ void escribirEncabezado() {
   outArchivoReporte << "12345678901234567890123456789012345678901234567890123456789012345678"
   "901234567890123456789012" << endl;
   outArchivoReporte << "  NOP120                  ACTUALIZACION DEL ARCHIVO DE PERSONAL     "
-  "             HOJA " << numeroHoja << endl << endl;
+  "             HOJA " << numHoja << endl << endl;
   outArchivoReporte << "ACME - DIV. BANCOS             MOVIMIENTOS EFECTUADOS" << endl;
   outArchivoReporte << "PERSONAL" << endl << endl;
   outArchivoReporte << "        TRABAJADOR        MOVIMIENTO EFECTUADO" << endl;
@@ -64,12 +70,15 @@ void escribirEncabezado() {
 }
 
 void escribirReporte(string mensaje) {
-  if (contadorLineas > 19) {
-    cout << "\n";
+  if (numLinea > 19) {
+    outArchivoReporte << "\n";
+    numLinea = 0;
+    numHoja++;
     escribirEncabezado();
   }
   outArchivoReporte << "        " << regMovimientos.datos.noTrabajador << "                "
       << mensaje << endl;
+  numLinea++;
 }
 
 /* Funcion: abrirArchivos
