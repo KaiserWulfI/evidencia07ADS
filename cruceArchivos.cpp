@@ -3,7 +3,6 @@
  *  Alejandro Longoria Gonzalez
  *  Elihu Orlando Osuna Maltos
  *  Humberto Alejandro Vargas Sanchez
- *  Carlos Enrique Aguilar Sanchez
  * Programa: Cruce De Archivos
  * Objetivo: Actualizar el archivo de Personal con Movimientos (altas, bajas,
  * cambios).
